@@ -1,0 +1,128 @@
+<style>
+.price-card {
+  border: 2px solid #ddd;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 15px 0;
+}
+.buy-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 10px 22px;
+  background: #0088cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+}
+.buy-btn:hover {
+  background: #006fa3;
+}
+</style>
+
+<section style="max-width:1000px;margin:50px auto;padding:20px">
+
+<h2 style="text-align:center;">👉🏼 НОВИЙ ПРАЙС 👈🏼</h2>
+
+<h3>🛡️ Броня 6️⃣ Звичайна 🛡️</h3>
+<div class="price-card">
+Шолом 🪖 — 5 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+Броня 🥻 — 5 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+<b>Всього 🪖🥻 — 10 грн 💰</b><br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<h3>🐍 Броня 6️⃣ Кобра 🐍</h3>
+<div class="price-card">
+Шолом 🪖 — 7 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+Броня 🥻 — 7 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+<b>Всього 🪖🥻 — 13 грн 💰</b><br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<h3>⚔️ Броня 6️⃣ СФ ⚔️</h3>
+<div class="price-card">
+Шолом 🪖 — 8 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+Броня 🥻 — 8 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<div class="price-card">
+<b>Всього 🪖🥻 — 13 грн 💰</b><br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a>
+</div>
+
+<h3>🔫 ЗБРОЯ 🔫</h3>
+
+<div class="price-card">МК покращена — 4 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">МК вишк — 7 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">МК кобра — 7 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">МК сталик — 7 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<h3>🎒 РЮКЗАКИ 🎒</h3>
+<div class="price-card">6 lvl — 4 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<h3>💡 ДОДАТКИ 💡</h3>
+
+<div class="price-card">Теплак — 5 грн 💰<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">Тканина — 5 грн 💰<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">Фул обважування — 3 грн 💰<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<h2>😇 СУПРОВІД 🥇</h2>
+
+<div class="price-card">5 карта — все включено — 70 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">5 карта файти (2 катки) — 60 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">5 карта радка (10 🍋) — 45 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">3 карта файти — 30 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">3 карта радка (5 🍋) — 30 грн 💵<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<div class="price-card">3 карта все включено — 60 грн 💴<br>
+<a class="buy-btn" href="https://t.me/Renat12g">Купити</a></div>
+
+<p style="font-weight:bold;color:green">
+✔️ Якщо щось знімуть — весь лут компенсуємо
+</p>
+
+</section>
